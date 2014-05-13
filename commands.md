@@ -1,3 +1,4 @@
+
 ## First Steps
 git init
 git add .
@@ -7,6 +8,7 @@ git commit -m "git commands - initial commit"
 
 git status
 added from person a
+added from person b
 
 ## Github
 - before second person clones, add them as "collaborator"
